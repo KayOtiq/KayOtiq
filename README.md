@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KayOtiq
-- 👀 I’m interested in learning all things automation, including jenkins, docker, kubernetes
+- 👀 I’m interested in learning and coaching all things automation, including jenkins, docker, kubernetes, selenium, unit and regression testing
 - 📚 I’m currently learning jenkinsfiles, dockerfiles, python, groovy and whatever comes up for my next job
 - 🤝🏼 I’m looking to collaborate on taking over the world
 - 📫 How to reach me ...
